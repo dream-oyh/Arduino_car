@@ -1,0 +1,4 @@
+{
+    "sketch": "Tyler\\movement.ino",
+    "board": "arduino:avr:uno"
+}
